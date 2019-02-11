@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iengoo.qyxy.red/sitemap.xml
